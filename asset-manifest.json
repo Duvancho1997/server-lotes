@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/server-lotes/static/css/main.39377e56.css",
+    "main.js": "/server-lotes/static/js/main.4194a778.js",
+    "static/js/703.1db195da.chunk.js": "/server-lotes/static/js/703.1db195da.chunk.js",
+    "static/js/513.f3a96bf8.chunk.js": "/server-lotes/static/js/513.f3a96bf8.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/server-lotes/static/media/bootstrap-icons.c15abee23f0098f0490f.woff",
+    "static/media/bootstrap-icons.woff2?": "/server-lotes/static/media/bootstrap-icons.3518ff4dccdeac177ccf.woff2",
+    "static/media/imagen.png": "/server-lotes/static/media/imagen.4ce1ce10ce20ffcefb44.png",
+    "static/media/boton.png": "/server-lotes/static/media/boton.ffb84288ea214f239189.png",
+    "index.html": "/server-lotes/index.html",
+    "main.39377e56.css.map": "/server-lotes/static/css/main.39377e56.css.map",
+    "main.4194a778.js.map": "/server-lotes/static/js/main.4194a778.js.map",
+    "703.1db195da.chunk.js.map": "/server-lotes/static/js/703.1db195da.chunk.js.map",
+    "513.f3a96bf8.chunk.js.map": "/server-lotes/static/js/513.f3a96bf8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39377e56.css",
+    "static/js/main.4194a778.js"
+  ]
+}
