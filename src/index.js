@@ -10,7 +10,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <BrowserRouter>
   <React.StrictMode>
-   
+   <h1>Hola perdi la apuesta</h1>
     <App/>
    
   </React.StrictMode>
